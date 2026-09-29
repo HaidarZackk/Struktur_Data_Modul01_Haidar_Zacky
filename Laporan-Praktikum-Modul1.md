@@ -73,7 +73,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS UNGUIDED 1/Output-Unguided1-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS%20UNGUIDED%201/Output-Unguided1-1.png)
 
 Contoh keluaran (input 12.5 dan 4):
 ```
@@ -87,7 +87,7 @@ Masukkan bilangan kedua   : 4
 ```
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS UNGUIDED 1/Output-Unguided1-2.png)
+![Screenshot Output Unguided 1_2](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS%20UNGUIDED%201/Output-Unguided1-2.png)
 
 Program ini mendeklarasikan dua variabel bertipe `float`, yaitu `a` dan `b`, yang nilainya dibaca dari keyboard menggunakan `cin`. Setelah itu program menampilkan hasil keempat operasi aritmatika (`+`, `-`, `*`, `/`) menggunakan `cout`. Tipe `float` dipilih agar bilangan pecahan dapat diproses dengan benar. Sebelum melakukan pembagian, program memeriksa dengan pernyataan `if-else` apakah `b` bernilai 0, karena pembagian dengan nol tidak dapat dilakukan. Jika `b` sama dengan 0, program menampilkan pesan bahwa pembagian tidak dapat dilakukan.
 
@@ -132,7 +132,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS UNGUIDED 2/Output-Unguided2-1.png)
+![Screenshot Output Unguided 2_1](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS%20UNGUIDED%202/Output-Unguided2-1.png)
 
 Contoh keluaran:
 ```
@@ -141,7 +141,7 @@ Masukkan angka (0 - 100) : 77
 ```
 
 ##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS UNGUIDED 2/Output-Unguided2-2.png)
+![Screenshot Output Unguided 2_2](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS%20UNGUIDED%202/Output-Unguided2-2.png)
 
 Program menyimpan kata untuk angka 0 sampai 11 di dalam array `satuan`, lalu memakai `if-else` bertingkat untuk menentukan cara penulisan sesuai rentang angka:
 - **0 s.d. 11**: langsung diambil dari array `satuan` (misalnya 0 = "nol" dan 11 = "sebelas").
@@ -196,7 +196,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS UNGUIDED 3/Output-Unguided3-1.png)
+![Screenshot Output Unguided 3_1](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS%20UNGUIDED%203/Output-Unguided3-1.png)
 
 Contoh keluaran (input 3):
 ```
@@ -209,7 +209,7 @@ output:
 ```
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS UNGUIDED 3/Output-Unguided3-2.png)
+![Screenshot Output Unguided 3_2](https://github.com/HaidarZackk/Struktur_Data_Modul01_Haidar_Zacky/blob/main/SS%20UNGUIDED%203/Output-Unguided3-2.png)
 
 Program menggunakan perulangan bersarang. Perulangan luar dengan variabel `i` berjalan dari `n` turun sampai 0, dan setiap iterasinya mencetak satu baris. Pada setiap baris terdapat empat bagian:
 1. Perulangan pertama mencetak `2 * (n - i)` spasi agar pola tampak rata tengah (bertambah 2 spasi tiap baris).
