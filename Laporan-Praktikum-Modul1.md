@@ -174,16 +174,13 @@ int main() {
     cout << "output:" << endl;
 
     for (int i = n; i >= 0; i--) {
-        // spasi di awal agar pola rata tengah
         for (int s = 0; s < 2 * (n - i); s++) {
             cout << " ";
         }
-        // angka menurun di sisi kiri
         for (int j = i; j >= 1; j--) {
             cout << j << " ";
         }
         cout << "*";
-        // angka menaik di sisi kanan
         for (int j = 1; j <= i; j++) {
             cout << " " << j;
         }
